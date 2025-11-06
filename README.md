@@ -104,5 +104,3 @@ Open Customer_Shopping_Behavior.pbix in Power BI Desktop.
 
 This project demonstrates an end-to-end data analytics workflow, from raw data handling to actionable insights through Python, SQL, and Power BI.
 It highlights strong analytical thinking, visualization expertise, and business understanding—ideal for Data Analyst, BI Analyst, or Data Science roles.
-git clone https://github.com/yourusername/customer-shopping-behavior.git
-cd customer-shopping-behavior
