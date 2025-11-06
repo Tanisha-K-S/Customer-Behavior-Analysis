@@ -1,5 +1,7 @@
 # 🛍️ Customer Shopping Behavior Analysis  
 
+![Dashboard Image](https://github.com/user-attachments/assets/0db13ceb-17d4-4dae-947a-0a70f29b1acb)
+
 ## 📘 Overview  
 This project analyzes **customer shopping behavior** using transactional data to uncover insights into **spending patterns, product preferences, subscription trends, and customer segments**.  
 It integrates **Python (EDA)**, **PostgreSQL (SQL analysis)**, and **Power BI (dashboard visualization)** to deliver actionable insights that support data-driven business decisions.  
